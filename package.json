@@ -15,7 +15,7 @@
     "author": "Arun Chithambaram",
     "license": "ISC",
     "devDependencies": {
-        "@types/node": "16.11.32",
+        "@types/node": "16.11.41",
         "typescript": "4.6.4"
     }
 }
